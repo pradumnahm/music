@@ -1,0 +1,6 @@
+yt_cache/
+__pycache__/
+*.m4a
+*.mp3
+*.wav
+*.mp4
